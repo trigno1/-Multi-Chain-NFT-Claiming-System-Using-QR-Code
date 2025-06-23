@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# -Multi-Chain-NFT-Claiming-System-Using-QR-Code
+A DApp that lets users claim NFTs by scanning a QR code—no wallet or blockchain knowledge needed. It supports social logins, auto wallet creation, ERC-1155 contracts via Thirdweb, and multi-chain support (Ethereum, Polygon, BSC). Ideal for events, digital collectibles, and eco-friendly NFT distribution.
+>>>>>>> ffa494b359e822bfae4ca98cbd4a2ffd9de7d26f
